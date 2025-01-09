@@ -233,8 +233,8 @@
                             <div class="label" title="Arduino is an open source platform for building electronic devices.">arduino</div>
                             <div class="label" title="SQL is a standard language for storing, retrieving and manipulating data in databases.">sql</div>
                             <div class="label" title="Data visualization is the graphic representation of data and trends.">data visualization</div>
-                            <div class="label" title="">vue</div>
                             <div class="label" title="Django is a web application framework for Python.">django</div>
+                            <div class="label" title="">vue</div>
                             <div class="label" title="Command-line interface, Bash, Raspberry Pi, Terminal, R, Jupyter Notebook, PostgreSQL, Firefox, Hacktoberfest, jQuery, Ansible, Flask, REST API, Shell, Natural language processing, scikit-learn, vim, Server, Deployment, LaTeX, webapp, Sass, Testing, P2P, PWA, The Julia Language, Emacs, IPFS, Publishing, Bioinformatics, Self-hosted, RSS, snakemake, video-upscaling, wdl">and 35 more...</div>
                         </div>
                     </section>
@@ -1288,7 +1288,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jan 2025, 16:06:37 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Jan 2025, 17:06:59 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
