@@ -28,6 +28,7 @@ jobs:
           plugin_repositories_affiliations: organization_member
           plugin_repositories_limit: 5
           plugin_repositories_forks: no
+          plugin_repositories_featured: maxplanck-ie/parkour2
 
           plugin_followup: yes
           plugin_followup_sections: user
@@ -48,7 +49,7 @@ jobs:
           #plugin_languages_recent_days: 150
           
           plugin_lines: yes
-          plugin_lines_history_limit: 1
+          plugin_lines_history_limit: 3
           plugin_lines_repositories_limit: 4
           #plugin_lines_sections: repositories
           
