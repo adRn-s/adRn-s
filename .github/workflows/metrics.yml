@@ -24,11 +24,11 @@ jobs:
           config_twemoji: yes
           
           plugin_repositories: yes
-          plugin_repositories_owner: maxplanck-ie
+          plugin_repositories_owner: maxplanck-ie, deeptools
           plugin_repositories_affiliations: organization_member
           plugin_repositories_limit: 5
           plugin_repositories_forks: no
-          plugin_repositories_featured: maxplanck-ie/parkour2
+          plugin_repositories_featured: maxplanck-ie/parkour2, deeptools/deepTools
 
           plugin_followup: yes
           plugin_followup_sections: user
