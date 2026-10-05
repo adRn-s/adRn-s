@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -262,7 +262,7 @@
                                     </div>
                                 </div>
                                 <div class="field description">
-                                    Parkour2: Laboratory Information Management System
+                                    Laboratory Information Management System
                                     <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
                                         <path fill="#CCD6DD" d="M34.941 36v-4.488c0-3.314-3.685-5.5-7-5.5h-12c-3.313 0-7 2.186-7 5.5V36h26z"/>
                                         <path fill="#292F33" d="M21.887 4.081c4.104 0 10.947 2.053 10.947 10.947 0 8.895 0 10.948-2.053 10.948s-4.79-2.053-8.895-2.053c-4.105 0-6.785 2.053-8.895 2.053-2.287 0-2.053-8.211-2.053-10.948 0-8.894 6.843-10.947 10.949-10.947"/>
