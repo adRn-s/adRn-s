@@ -23,7 +23,7 @@ jobs:
           config_timezone: Europe/Berlin
           config_twemoji: yes
           
-          plugin_repositories: no  #!
+          plugin_repositories: no  # using the gh native widget
           plugin_repositories_owner: maxplanck-ie, deeptools
           plugin_repositories_affiliations: organization_member
           plugin_repositories_limit: 5
@@ -33,31 +33,31 @@ jobs:
           plugin_followup: yes
           plugin_followup_sections: user
           
-          plugin_habits: yes
-          #plugin_habits_from: 500
-          #plugin_habits_days: 30
-          #plugin_habits_languages_threshold: 5
-          #plugin_habits_charts: yes
-          #plugin_habits_trim: yes
-          #plugin_habits_facts: yes
+          plugin_habits: no  # throws error :/
+          plugin_habits_from: 500
+          plugin_habits_days: 30
+          plugin_habits_languages_threshold: 5
+          plugin_habits_charts: yes
+          plugin_habits_trim: yes
+          plugin_habits_facts: yes
           
-          plugin_isocalendar: no  #!
+          plugin_isocalendar: no  # using the gh native widget
           plugin_isocalendar_duration: full-year
           
-          plugin_code: yes
+          plugin_code: no  # finds no data :/
           plugin_code_days: 180
           plugin_code_languages: python
           
-          plugin_languages: yes
+          plugin_languages: no  # finds no data :/
           commits_authoring: A.s, 62971995+adRn-s@users.noreply.github.com, adRn-s, 62971995+adRn-s@users.noreply.github.com, lims@omics.dev, salatino@omics.dev, salatino@ie-freiburg.mpg.de, user@domain.com, root@parkour.ie-freiburg.mpg.de
           plugin_languages_ignored: html, css, javascript, typescript
           plugin_languages_sections: recently-used
-          #plugin_languages_recent_days: 500
-          #plugin_languages_indepth: yes
-          #plugin_languages_details: lines
+          plugin_languages_recent_days: 500
+          plugin_languages_indepth: yes
+          plugin_languages_details: lines
           
           
-          plugin_lines: no  #!
+          plugin_lines: yes
           plugin_lines_history_limit: 3
           plugin_lines_repositories_limit: 5
           plugin_lines_sections: repositories
@@ -66,7 +66,7 @@ jobs:
           plugin_topics_mode: icons
           plugin_topics_sort: stars
           
-          plugin_reactions: no  #!
+          plugin_reactions: yes
           plugin_reactions_ignored: sweep-ai-deprecated[bot]
 
 
