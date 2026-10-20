@@ -57,7 +57,7 @@ jobs:
           plugin_languages_details: lines
           
           
-          plugin_lines: yes
+          plugin_lines: no  # it breaks the whole ci job :/
           plugin_lines_history_limit: 3
           plugin_lines_repositories_limit: 5
           plugin_lines_sections: repositories
