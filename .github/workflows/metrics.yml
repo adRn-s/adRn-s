@@ -34,12 +34,12 @@ jobs:
           plugin_followup_sections: user
           
           plugin_habits: yes
-          plugin_habits_from: 500
-          plugin_habits_days: 30
-          plugin_habits_languages_threshold: 5
-          plugin_habits_charts: yes
-          plugin_habits_trim: yes
-          plugin_habits_facts: yes
+          #plugin_habits_from: 500
+          #plugin_habits_days: 30
+          #plugin_habits_languages_threshold: 5
+          #plugin_habits_charts: yes
+          #plugin_habits_trim: yes
+          #plugin_habits_facts: yes
           
           plugin_isocalendar: no  #!
           plugin_isocalendar_duration: full-year
@@ -48,13 +48,13 @@ jobs:
           plugin_code_days: 180
           plugin_code_languages: python
           
-          plugin_languages: no  #!
+          plugin_languages: yes
           commits_authoring: A.s, 62971995+adRn-s@users.noreply.github.com, adRn-s, 62971995+adRn-s@users.noreply.github.com, lims@omics.dev, salatino@omics.dev, salatino@ie-freiburg.mpg.de, user@domain.com, root@parkour.ie-freiburg.mpg.de
           plugin_languages_ignored: html, css, javascript, typescript
           plugin_languages_sections: recently-used
-          plugin_languages_recent_days: 500
-          plugin_languages_indepth: no  #!
-          plugin_languages_details: lines
+          #plugin_languages_recent_days: 500
+          #plugin_languages_indepth: yes
+          #plugin_languages_details: lines
           
           
           plugin_lines: no  #!
